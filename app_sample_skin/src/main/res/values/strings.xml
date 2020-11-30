@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skin</string>
+    <string name="change_skin_text">点击换肤11</string>
+    <string name="recovery_skin_text">点击恢复22</string>
+</resources>

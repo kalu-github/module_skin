@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MyTextViewStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/myTextColor</item>
+        <item name="android:background">@color/activityBackgroundColor</item>
+    </style>
+
+    <style name="progressBarStyle">
+        <item name="android:indeterminateDrawable">@drawable/my_image</item>
+    </style>
+
+</resources>
